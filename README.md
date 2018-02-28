@@ -1,4 +1,4 @@
-# Assignment: Probability: N-gram Language Model
+# Probability: N-gram Language Model
 
 This was one of our assignment in CS760: Artificial Intelligence. The goal of this assignment was to give us some experience implementing a probabilistic model. It assumes you have already familiarized yourself with Git and Maven.
 
